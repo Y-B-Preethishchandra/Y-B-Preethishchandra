@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Y-B-Preethishchandra
 - 👀 I’m interested in full stack development and cloud technologies
-- 🌱 I’m currently learning reacjs and I know Django/python and can work on nodejs and java technologies 
+- 🌱 I’m work on projects that use reacjs, Django/Flask/Python, Java/SpringBoot
 
 - 📫 How to reach me @ my email address provided in the profile
 
